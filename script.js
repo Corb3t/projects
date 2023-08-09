@@ -1,5 +1,5 @@
 const username = 'Corb3t';
-const maxPages = 4;
+const maxPages = 1;
 const hideForks = true;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
